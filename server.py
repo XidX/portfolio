@@ -4,7 +4,7 @@ import csv
 # from app import app
 # to activate the virutal inviroment you shoud use this command
 # .\\"web server"\Scripts\activate.ps1
-# $env:FLASK_APP = "server2.py"
+# $env:FLASK_APP = "server.py"
 # $env:FLASK_DEBUG=1
 
 
